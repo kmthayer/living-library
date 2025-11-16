@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background: #fdfdfd;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+#searchBox {
+    width: 90%;
+    padding: 12px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.book {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 6px;
+    background: white;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.author, .category, .year {
+    margin-top: 5px;
+}
