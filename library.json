@@ -275,8 +275,350 @@
   "collection": "Thayer",
   "notes": "Publication year from preface"
 }
+  {
+  "title": "Computer Simulation of Chemical and Biomolecular Systems",
+  "author": "David L. Beveridge; William L. Jorgensen (editors)",
+  "year": 1986,
+  "category": "computational chemistry",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["molecular simulation", "computational chemistry", "biomolecular systems", "Annals of the NY Academy of Sciences"],
+  "isbn": "",
+  "format": "softcover",
+  "collection": "Beverdige",
+  "notes": "Annals of the New York Academy of Sciences, Vol. 482"
+}
+{
+  "title": "Knowledge and Wonder: The Natural World as Man Knows It",
+  "author": "Victor F. Weisskopf",
+  "year": 1979,
+  "category": "philosophy of science",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["physics", "philosophy of science", "natural world"],
+  "isbn": "",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Copyright 1962, revised 1966 and 1979; sixth printing 1989 (MIT Press)"
+}
+{
+  "title": "The Name Above the Title: An Autobiography",
+  "author": "Frank Capra",
+  "year": 1971,
+  "category": "autobiography",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["film history", "Hollywood", "autobiography", "American cinema"],
+  "isbn": "",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Vintage Books edition (Random House); work originally published 1971 by other publishers"
+}
+{
+  "title": "Reason in Science",
+  "author": "George Santayana",
+  "year": 1983,
+  "category": "philosophy of science",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["philosophy", "science", "reason", "epistemology"],
+  "isbn": "",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Dover Publications reprint; barcode too faint to scan"
+}
+{
+  "title": "Instructor's Manual for General Chemistry",
+  "author": "Becker; Wentworth",
+  "year": 1980,
+  "category": "chemistry education",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["general chemistry", "instructor manual", "teaching", "solutions"],
+  "isbn": "",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Second edition; instructor's manual; Houghton Mifflin"
+}
+{
+  "title": "Project ACAC: An Experimental Investigation in Synthesis and Structure",
+  "author": "Gray; Swanson; Crawford",
+  "year": 1972,
+  "category": "chemistry education",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["experimental chemistry", "curriculum project", "synthesis", "structure"],
+  "isbn": "",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Instructional project; Bogden & Quigley publication"
+}
+{
+  "title": "Crystals and Crystal Growing",
+  "author": "Alan Holden; Phylis Singer",
+  "year": 1960,
+  "category": "materials science",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["crystals", "crystallography", "order in nature", "science education"],
+  "isbn": "",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Science Study Guide Series S7 (Order in Nature); Anchor Books/Doubleday; signed by David L. Beveridge, dated 1969"
+}
+  {
+  "title": "Symmetry Rules for Chemical Reactions",
+  "author": "Ralph G. Pearson",
+  "year": 1976,
+  "category": "physical chemistry",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["chemical reactions", "symmetry", "theoretical chemistry", "reaction mechanisms"],
+  "isbn": "0-471-01495-8",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": ""
+}
+{
+  "title": "A Century of DNA: A History of the Discovery of the Structure and Function of the Genetic Substance",
+  "author": "Franklin H. Portugal; Jack S. Cohen",
+  "year": 1979,
+  "category": "history of science",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["DNA", "genetics", "molecular biology", "history of science"],
+  "isbn": "",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "MIT Press edition; signed by David L. Beveridge, dated 1987"
+}
+{
+  "title": "Intermolecular Interactions and Biomolecular Organization",
+  "author": "A. J. Hopfinger",
+  "year": 1977,
+  "category": "computational chemistry",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["intermolecular interactions", "biomolecular organization", "theoretical chemistry", "molecular structure"],
+  "isbn": "",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "Wiley-Interscience edition; signed by 'J. R. Varm' (name partially illegible), New York, 1979"
+}
+{
+  "title": "Annual Review of Physical Chemistry",
+  "author": "Henry Eyring (editor)",
+  "year": 1967,
+  "category": "physical chemistry",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["physical chemistry", "review articles", "Annual Reviews"],
+  "isbn": "",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "Volume 18; Annual Reviews; signed by David L. Beveridge"
+}
+{
+  "title": "Annual Review of Physical Chemistry",
+  "author": "B. S. Rabinovitch (editor)",
+  "year": 1976,
+  "category": "physical chemistry",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["physical chemistry", "review articles", "Annual Reviews"],
+  "isbn": "",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "Volume 27; Annual Reviews"
+}
+{
+  "title": "The Mechanism of Energy Transduction in Biological Systems",
+  "author": "David E. Green (editor)",
+  "year": 1974,
+  "category": "biophysics",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["bioenergetics", "energy transduction", "mitochondria", "Annals of the New York Academy of Sciences"],
+  "isbn": "",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": "Annals of the New York Academy of Sciences, Vol. 227, pp. 1–680"
+}
+  {
+  "title": "Quantum Chemistry in Biomedical Sciences",
+  "author": "Harel Weinstein; Jack Peter Green (editors)",
+  "year": 1981,
+  "category": "computational chemistry",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["quantum chemistry", "biomedical sciences", "theoretical biophysics", "Annals of the New York Academy of Sciences"],
+  "isbn": "",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "Annals of the New York Academy of Sciences, Vol. 367, pp. 1–552"
+}
+{
+  "title": "The Literature of the Piano: A Guide for Amateur and Student",
+  "author": "Ernest Hutchinson; revised by Rudolph Ganz",
+  "year": 1975,
+  "publisher": "Alfred A. Knopf (Borzoi Books)",
+  "category": "music",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["piano", "music literature", "repertoire", "music education"],
+  "isbn": "",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "Third edition, revised by Rudolph Ganz"
+}
+{
+  "title": "110 Livingston Street: Politics and Bureaucracy in the New York City School System",
+  "author": "David Rogers",
+  "year": 1969,
+  "publisher": "Vintage Books",
+  "category": "public policy",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["education policy", "New York City", "bureaucracy", "politics"],
+  "isbn": "",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Vintage Books edition; needs minor repairs"
+}
+{
+  "title": "Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology",
+  "author": "Jacques Monod",
+  "year": 1972,
+  "publisher": "Vintage Books (Random House)",
+  "category": "philosophy of biology",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["molecular biology", "philosophy of science", "evolution", "determinism"],
+  "isbn": "",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Signed by David L. Beveridge"
+}
+{
+  "title": "CUE: Harvard University Course Evaluation Guide",
+  "author": "Committee on Undergraduate Education, Harvard University",
+  "year": 1992,
+  "publisher": "Harvard University",
+  "category": "education",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["course evaluation", "higher education", "teaching assessment", "academic policy"],
+  "isbn": "",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Editor-in-chief: David Theodore Nuscher; institutional publication"
+}
+{
+  "title": "The Oxford History of the American People (3-volume set with cumulative index)",
+  "author": "Samuel Eliot Morison",
+  "year": 1972,
+  "publisher": "Mentor Books (New American Library)",
+  "category": "history",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["United States history", "American history", "national history"],
+  "isbn": "",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Four-volume Mentor edition: Vol. 1 Prehistory–1789; Vol. 2 1789–Reconstruction; Vol. 3 1869–1963 (death of JFK); Vol. 4 cumulative index"
+}
+{
+  "title": "One Flew Over the Cuckoo's Nest",
+  "author": "Ken Kesey",
+  "year": 1976,
+  "publisher": "Penguin Books",
+  "category": "literature",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["American literature", "psychology", "institutional critique", "fiction"],
+  "isbn": "9780140043129",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Penguin paperback edition"
+}
+{
+  "title": "The Tempest: A General Reader's Shakespeare",
+  "author": "William Shakespeare; edited by Louis B. Wright; Virginia A. LaMar",
+  "year": 1961,
+  "publisher": "Washington Square Press (Folger Shakespeare Library)",
+  "category": "literature",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["Shakespeare", "drama", "English literature", "Folger Library"],
+  "isbn": "0671551787",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "General Reader's Shakespeare edition"
+}
+{
+  "title": "Utilitarianism",
+  "author": "John Stuart Mill; edited by Oskar Piest",
+  "year": 1957,
+  "publisher": "Macmillan (Library of Liberal Arts)",
+  "category": "philosophy",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["ethics", "utilitarianism", "moral philosophy", "political philosophy"],
+  "isbn": "0023956704",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Macmillan Library of Liberal Arts edition"
+}
+{
+  "title": "The Two Cultures: And A Second Look",
+  "author": "C. P. Snow",
+  "year": 1964,
+  "publisher": "Cambridge University Press",
+  "category": "intellectual history",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["science and humanities", "intellectual history", "scientific culture", "education"],
+  "isbn": "",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "Expanded version of 'The Two Cultures and the Scientific Revolution'; marked as from the library of Paul Horgan"
+}
+{
+  "title": "Various Antidotes: Stories",
+  "author": "Joanna Scott",
+  "year": 1994,
+  "publisher": "Henry Holt & Co",
+  "category": "literature",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["short stories", "fiction", "American literature"],
+  "isbn": "9780805026474",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": ""
+}
+{
+  "title": "Natural Theology; or, Evidences of the Existence and Attributes of the Deity",
+  "author": "William Paley, D.D.",
+  "year": null,
+  "publisher": "Lincoln-Rembrandt Publishing",
+  "category": "theology",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["natural theology", "philosophy of religion", "design argument", "theology"],
+  "isbn": "0935005625",
+  "format": "",
+  "collection": "Thayer",
+  "notes": "12th edition; modern reprint of Paley's 1802 work"
+}
+{
+  "title": "Cholinergic Mechanisms",
+  "author": "S. Ehrenpreis (editor)",
+  "year": 1967,
+  "publisher": "New York Academy of Sciences",
+  "category": "neuroscience",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["cholinergic systems", "neurochemistry", "neurobiology", "Annals of the New York Academy of Sciences"],
+  "isbn": "",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": "Annals of the New York Academy of Sciences, Vol. 144, Art. 2, pp. 383–936; published Oct. 31, 1967"
+}
+{
+  "title": "The New College French and English Dictionary",
+  "author": "AMSCO School Publications",
+  "year": 1972,
+  "publisher": "Bantam Books",
+  "category": "reference",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["French", "English", "dictionary", "language reference"],
+  "isbn": "0877204632",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": "AMSCO School Publications bilingual dictionary"
+}
+
+
+
+
 
 
 
 ]
+
 
