@@ -143,4 +143,140 @@
     "collection": "Thayer",
     "notes": "QAC 154 Working with MATLAB textbook"
   }
+  {
+  "title": "Professing Feminism: Cautionary Tales from the Strange World of Women's Studies",
+  "author": "Daphne Patai, Noretta Koertge",
+  "year": 1994,
+  "category": "women's studies",
+  "location": "Thayer",
+  "tags": ["feminism", "higher education", "women's studies", "cultural criticism"],
+  "isbn": "9780465098217",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": ""
+}
+  {
+  "title": "Dynamics of Proteins and Nucleic Acids",
+  "author": "J. Andrew McCammon, Stephen C. Harvey",
+  "year": 1988,
+  "category": "biophysics",
+  "location": "Thayer Office",
+  "tags": ["biophysics", "protein dynamics", "nucleic acids", "molecular biology"],
+  "isbn": "9780521356527",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": ""
+}
+  {
+  "title": "Henderson's Dictionary of Biological Terms",
+  "author": "I. F. Henderson, W. D. Henderson, Sandra Holmes",
+  "year": 1989,
+  "category": "biology",
+  "location": "Thayer Office",
+  "tags": ["biology", "reference", "dictionary", "life sciences"],
+  "isbn": "9780582447592",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": ""
+}
+{
+  "title": "A Short Guide to Writing about Chemistry",
+  "author": "Herbert Beall, John Trimbur",
+  "year": 1996,
+  "category": "chemistry",
+  "location": "Thayer Office",
+  "tags": ["chemistry", "writing", "communication", "science education"],
+  "isbn": "9780673468826",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": ""
+}
+{
+  "title": "Kosovo: A Short History",
+  "author": "Noel Malcolm",
+  "year": 1999,
+  "category": "history",
+  "location": "Thayer Office",
+  "tags": ["Kosovo", "Balkans", "European history", "politics"],
+  "isbn": "9780060977757",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": ""
+}
+{
+  "title": "The Periodic Table",
+  "author": "Primo Levi",
+  "year": 1984,
+  "category": "literature",
+  "location": "Thayer office",
+  "tags": ["chemistry", "memoir", "literature", "science", "holocaust"],
+  "isbn": "9780805210415",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": ""
+}
+  {
+  "title": "New England, 1993-1994 (Country Inns and Back Roads)",
+  "author": "Jerry Levitin",
+  "year": 1993,
+  "category": "travel",
+  "location": "Thayer Office",
+  "tags": ["New England", "travel", "inns", "guides"],
+  "isbn": "9780062731937",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": ""
+}
+{
+  "title": "Shape and Flow: The Fluid Dynamics of Drag",
+  "author": "Ascher H. Shapiro",
+  "year": 1961,
+  "category": "fluid dynamics",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["fluid dynamics", "drag", "aerodynamics", "physics"],
+  "isbn": "",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "No barcode; first published 1961"
+}
+{
+  "title": "Understanding Chemical Thermodynamics",
+  "author": "George C. Pimentel, Richard D. Spratley",
+  "year": 1971,
+  "category": "physical chemistry",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["thermodynamics", "physical chemistry", "chemical education"],
+  "isbn": "",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "No barcode; Holden-Day edition"
+}
+{
+  "title": "Computer-Assisted Modeling: Contributions of Computational Approaches to Elucidating Macromolecular Structure and Function",
+  "author": "A. J. Hopfinger (editor)",
+  "year": 1987,
+  "category": "computational chemistry",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["computational modeling", "macromolecules", "structural biology", "molecular simulations"],
+  "isbn": "",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "National Academy Press; edited volume; no barcode"
+}
+{
+  "title": "TOPIC AIDS: A Guide to Instructional Resources for General Chemistry",
+  "author": "American Chemical Society; Texas A&M University",
+  "year": 1975,
+  "category": "chemistry education",
+  "location": "Bookshelf Thayer Office",
+  "tags": ["general chemistry", "instructional resources", "ACS", "curriculum"],
+  "isbn": "",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Publication year from preface"
+}
+
+
+
 ]
+
