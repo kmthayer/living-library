@@ -613,6 +613,461 @@
   "notes": "AMSCO School Publications bilingual dictionary"
 }
 
+{
+  "title": "BASIC with Style: Programming Proverbs",
+  "author": "Paul Nagin; Henry F. Ledgard",
+  "year": 1978,
+  "publisher": "Hayden Book Company",
+  "category": "computer science",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": ["programming", "BASIC", "software style", "computer science education"],
+  "isbn": "0810451158",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": ""
+}
+{
+  "title": "Chemistry Handbook",
+  "author": "Donald B. Summers",
+  "year": 1970,
+  "publisher": "Willard Grant Press, Inc.",
+  "category": "chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": ["laboratory handbook", "chemistry education", "reference"],
+  "isbn": "",
+  "format": "spiral bound",
+  "collection": "Thayer",
+  "notes": "Includes sample laboratory experiment and original order form from publisher"
+}
+{
+  "title": "In Preparation for College Chemistry",
+  "author": "William S. Seese",
+  "year": 1972,
+  "publisher": "Prentice-Hall, Inc.",
+  "category": "chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": ["chemistry education", "college preparation", "general chemistry"],
+  "isbn": "0134536622",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": ""
+}
+{
+  "title": "Electronic Aspects of Biochemistry",
+  "author": "Philip Feigelson (editor)",
+  "year": 1969,
+  "publisher": "New York Academy of Sciences",
+  "category": "biochemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": ["biochemistry", "biophysics", "electronic structure", "Annals of the New York Academy of Sciences"],
+  "isbn": "",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": "Annals of the New York Academy of Sciences, Vol. 158, Art. 1, pp. 1–483"
+}
+{
+  "title": "Obituary Pamphlet for Maria Tomasz",
+  "author": "",
+  "year": 2017,
+  "publisher": "",
+  "category": "archival material",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": ["obituary", "memorial", "chemistry community"],
+  "isbn": "",
+  "format": "pamphlet",
+  "collection": "Thayer",
+  "notes": "Memorial pamphlet for Maria Tomasz"
+}
+{
+  "title": "Marcellin Berthelot: A Study of a Scientist's Public Role",
+  "author": "Reino Virtanen",
+  "year": 1965,
+  "publisher": "University of Nebraska",
+  "category": "history of science",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": ["history of science", "scientist and society", "Marcellin Berthelot", "institutional studies"],
+  "isbn": "",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": "University of Nebraska Studies, New Series No. 31; published April 1965"
+}
+{
+  "title": "Квантовохимическая и статистическая теория растворов: Вычислительные методы и их применение (Quantum-Chemical and Statistical Theory of Solutions: Computational Methods and Their Application)",
+  "author": "Б. Я. Симкин (B. Ya. Simkin); И. И. Шейхет (I. I. Sheykhet)",
+  "year": 1989,
+  "publisher": "Издательство «Наука» (Izdatel'stvo \"Nauka\")",
+  "category": "theoretical chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "quantum chemistry",
+    "statistical mechanics",
+    "solutions",
+    "computational methods",
+    "Soviet science",
+    "Cold War scientific exchange"
+  ],
+  "isbn": "5724503409",
+  "format": "",
+  "collection": "Thayer",
+  "notes": "Russian-language monograph. Sent to David L. Beveridge while at CUNY from the authors at the Institute of Physical and Organic Chemistry (USSR). Partial original mailing/package fragment preserved."
+}
+{
+  "title": "Electrons, Waves, and Messages",
+  "author": "John R. Pierce",
+  "year": 1956,
+  "publisher": "Hanover House",
+  "category": "physics",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": ["electromagnetism", "communications", "information theory", "physics", "engineering"],
+  "isbn": "",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": ""
+}
+{
+  "title": "WE: Understanding the Psychology of Romantic Love",
+  "author": "Robert A. Johnson",
+  "year": 1983,
+  "publisher": "Harper & Row",
+  "category": "psychology",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": ["psychology", "romantic love", "Jungian psychology", "relationships"],
+  "isbn": "0062504355",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": "Signed"
+}
+{
+  "title": "Infrared and Raman Selection Rules for Molecular and Lattice Vibrations: The Correlation Method",
+  "author": "William G. Fateley; Francis R. Dollish; Neil T. McDevitt; Freeman F. Bentley",
+  "year": 1972,
+  "publisher": "Wiley-Interscience",
+  "category": "physical chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "infrared spectroscopy",
+    "Raman spectroscopy",
+    "molecular vibrations",
+    "lattice vibrations",
+    "group theory"
+  ],
+  "isbn": "047125620X",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "Signed by David L. Beveridge"
+}
+{
+  "title": "Macromolecular Structure and Specificity: Computer-Assisted Modeling and Applications",
+  "author": "Babu Venkataraghavan (editor); Richard J. Feldmann (editor)",
+  "year": 1985,
+  "publisher": "New York Academy of Sciences",
+  "category": "computational chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "macromolecular structure",
+    "computer-assisted modeling",
+    "structural biology",
+    "computational chemistry",
+    "Annals of the New York Academy of Sciences"
+  ],
+  "isbn": "",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": "Annals of the New York Academy of Sciences, Vol. 439. 2 copies"
+}
+{
+  "title": "Quantum Chemistry in Biomedical Sciences",
+  "author": "Harel Weinstein (editor); Jack Peter Green (editor)",
+  "year": 1981,
+  "publisher": "New York Academy of Sciences",
+  "category": "computational chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "quantum chemistry",
+    "biomedical sciences",
+    "computational chemistry",
+    "Annals of the New York Academy of Sciences"
+  ],
+  "isbn": "",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": "Annals of the New York Academy of Sciences, Vol. 367. Duplicate copy present in collection."
+}
+{
+  "title": "Quantum Chemistry in Biomedical Sciences",
+  "author": "Harel Weinstein (editor); Jack Peter Green (editor)",
+  "year": 1981,
+  "publisher": "New York Academy of Sciences",
+  "category": "computational chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "quantum chemistry",
+    "biomedical sciences",
+    "computational chemistry",
+    "Annals of the New York Academy of Sciences"
+  ],
+  "isbn": "",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": "Annals of the New York Academy of Sciences, Vol. 367. Three copies present in collection."
+}
+{
+  "title": "The Theory of Solutions of High Polymers",
+  "author": "A. R. Miller",
+  "year": 1948,
+  "publisher": "Oxford University Press (Clarendon Press)",
+  "category": "polymer physics",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "polymer science",
+    "solution theory",
+    "statistical mechanics",
+    "physical chemistry",
+    "International Series of Monographs on Physics"
+  ],
+  "isbn": "",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "Signed copy. Signature appears to read 'Jose Goruy Haue' (handwritten; identification uncertain). Series edited by Sir Ralph Fowler, P. Kapitza, N. F. Mott, and E. C. Bullard."
+}
+{
+  "title": "The Electronic Structure of Molecules: A New Approach",
+  "author": "J. W. Linnett",
+  "year": 1964,
+  "publisher": "Methuen & Co. Ltd. (London); John Wiley & Sons",
+  "category": "quantum chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "electronic structure",
+    "quantum chemistry",
+    "molecular theory",
+    "valence theory"
+  ],
+  "isbn": "",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "Author is Fellow of the Royal Society (F.R.S.). Co-published UK (Methuen) and US (Wiley) editions."
+}
+{
+  "title": "Electronic Spectra of Molecules and Ions in Crystals",
+  "author": "Donald S. McClure",
+  "year": 1959,
+  "publisher": "Academic Press",
+  "category": "solid-state physics",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "electronic spectra",
+    "crystal field theory",
+    "solid-state physics",
+    "spectroscopy"
+  ],
+  "isbn": "",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": "Reprinted from Solid State Physics: Advances in Research and Applications. Academic Press Solid State Reprints. UPItt Bookstore price tag ($3.95)."
+}
+{
+  "title": "The Existential Pleasures of Engineering",
+  "author": "Samuel C. Florman",
+  "year": 1976,
+  "publisher": "Barrie & Jenkins; Communica-Europa",
+  "category": "engineering philosophy",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "engineering",
+    "technology and society",
+    "philosophy of engineering",
+    "humanistic science"
+  ],
+  "isbn": "214202283",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "Hardcover edition. Price marked $1.95. ISBN may be missing leading zero (possibly 0214202283)."
+}
+{
+  "title": "Successful Women in the Sciences: An Analysis of Determinants",
+  "author": "",
+  "year": 1973,
+  "publisher": "New York Academy of Sciences",
+  "category": "history of science",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "women in science",
+    "science and society",
+    "gender studies",
+    "history of science",
+    "Annals of the New York Academy of Sciences"
+  ],
+  "isbn": "",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": "Annals of the New York Academy of Sciences, Vol. 208 (ANYAA9), pp. 1–450."
+}
+{
+  "title": "Beyond the Ivory Tower: The Frontiers of Public and Private Science",
+  "author": "Solly Zuckerman",
+  "year": 1971,
+  "publisher": "Taplinger Publishing Co.",
+  "category": "science policy",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "science and society",
+    "science policy",
+    "public science",
+    "research governance"
+  ],
+  "isbn": "0800807352",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": ""
+}
+{
+  "title": "Scrutinizing Science: Empirical Studies of Scientific Change",
+  "author": "Arthur Donovan (editor); Larry Laudan (editor); Rachel Laudan (editor)",
+  "year": 1992,
+  "publisher": "Johns Hopkins University Press",
+  "category": "philosophy of science",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "philosophy of science",
+    "scientific methodology",
+    "history of science",
+    "scientific change"
+  ],
+  "isbn": "0801845173",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Paperback reprint of the 1988 Kluwer Academic Publishers hardcover. Beveridge lab/library 'book on order' sticker present. Internal numbers noted: v801845173; 000-000-2575."
+}
+{
+  "title": "The Augmented Plane Wave Method",
+  "author": "Terry Loucks",
+  "year": 1967,
+  "publisher": "W. A. Benjamin, Inc.",
+  "category": "solid-state physics",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "augmented plane wave method",
+    "electronic structure",
+    "band structure",
+    "computational physics",
+    "Frontiers in Physics"
+  ],
+  "isbn": "",
+  "format": "softcover",
+  "collection": "Thayer",
+  "notes": "Frontiers in Physics: A Lecture Note and Reprint Series. Price marked $4.95."
+}
+{
+  "title": "Ab Initio Molecular Orbital Calculations for Chemists",
+  "author": "W. G. Richards; J. A. Horsley",
+  "year": 1970,
+  "publisher": "Oxford University Press (Clarendon Press)",
+  "category": "quantum chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "ab initio methods",
+    "molecular orbital theory",
+    "quantum chemistry",
+    "computational chemistry",
+    "Oxford Science Research Papers"
+  ],
+  "isbn": "",
+  "format": "hardcover",
+  "collection": "Thayer",
+  "notes": "Oxford Science Research Papers series. Signed by David L. Beveridge."
+}
+{
+  "title": "Science and Anti-Science",
+  "author": "Gerald Holton",
+  "year": 1993,
+  "publisher": "Harvard University Press",
+  "category": "history of science",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "philosophy of science",
+    "science and society",
+    "scientific culture",
+    "anti-science movements"
+  ],
+  "isbn": "0674792998",
+  "format": "paperback",
+  "collection": "Thayer",
+  "notes": "Used for Wesleyan Chemistry 350 course."
+}
+{
+  "title": "Quarterly Reviews of Biophysics",
+  "author": "",
+  "year": 1985,
+  "publisher": "Cambridge University Press",
+  "category": "biophysics",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "biophysics",
+    "review journal",
+    "molecular biophysics",
+    "scientific reviews"
+  ],
+  "isbn": "",
+  "format": "journal issue (softcover)",
+  "collection": "Thayer",
+  "notes": "Volume 18, Number 4 (November 1985). Published for the International Union of Pure and Applied Biophysics."
+}
+{
+  "title": "The Rub of the Green",
+  "author": "William Hallberg",
+  "year": 1988,
+  "publisher": "Doubleday",
+  "category": "fiction",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "fiction",
+    "golf",
+    "leisure reading",
+    "sports literature"
+  ],
+  "isbn": "0385245688",
+  "format": "hardcover",
+  "collection": "Beveridge",
+  "notes": "Leisure reading. David L. Beveridge was an avid golfer."
+}
+{
+  "title": "Configurations: A Journal of Literature, Science, and Technology",
+  "author": "",
+  "year": 2000,
+  "publisher": "Johns Hopkins University Press",
+  "category": "science and literature",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "science and literature",
+    "technology studies",
+    "interdisciplinary studies",
+    "STS"
+  ],
+  "isbn": "",
+  "format": "journal issue (softcover)",
+  "collection": "Beveridge",
+  "notes": "Volume 8, Number 3 (Fall 2000)."
+}
+{
+  "title": "International Journal of Quantum Chemistry: Quantum Chemistry Symposium No. 20",
+  "author": "Per-Olov Löwdin (editor-in-chief)",
+  "year": 1986,
+  "publisher": "John Wiley & Sons",
+  "category": "quantum chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "quantum chemistry",
+    "many-body theory",
+    "scattering theory",
+    "computational quantum chemistry",
+    "conference proceedings"
+  ],
+  "isbn": "0471859729",
+  "format": "softcover",
+  "collection": "Beveridge",
+  "notes": "Quantum Chemistry Symposium No. 20. Proceedings covering atomic, molecular, and solid-state theory; scattering problems; many-body phenomena; and computational quantum chemistry."
+}
 
 
 
@@ -620,5 +1075,6 @@
 
 
 ]
+
 
 
