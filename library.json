@@ -1067,8 +1067,294 @@
   "format": "softcover",
   "collection": "Beveridge",
   "notes": "Quantum Chemistry Symposium No. 20. Proceedings covering atomic, molecular, and solid-state theory; scattering problems; many-body phenomena; and computational quantum chemistry."
-}
+},
+  {
+  "title": "Molecular Spectroscopy - VIII: Invited Lectures Presented at the VIIIth European Congress on Molecular Spectroscopy Held in Copenhagen, Denmark, 14–20 August 1965",
+  "author": "International Union of Pure and Applied Chemistry, Physical Chemistry Division",
+  "year": 1965,
+  "publisher": "Butterworths Scientific Publications",
+  "category": "molecular spectroscopy",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "molecular spectroscopy",
+    "physical chemistry",
+    "IUPAC",
+    "conference proceedings",
+    "European Congress on Molecular Spectroscopy",
+    "spectroscopic methods",
+    "invited lectures"
+  ],
+  "isbn": null,
+  "format": "hardcover",
+  "collection": null,
+  "notes": "Proceedings of the VIIIth European Congress on Molecular Spectroscopy, held in Copenhagen, Denmark, 14–20 August 1965. Includes invited lectures on a variety of molecular spectroscopic topics. Published by Butterworths in 1965. Approximately 322 pages. Multilingual contributions. Source bibliographic records from multiple listings. :contentReference[oaicite:1]{index=1}"
+},
+{
+  "title": "Semiempirical Methods of Electronic Structure Calculation, Part B: Applications",
+  "author": "Gerald A. Segal (editor)",
+  "year": 1977,
+  "publisher": "Plenum Press",
+  "category": "electronic structure calculation",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "semiempirical methods",
+    "electronic structure",
+    "computational chemistry",
+    "modern theoretical chemistry",
+    "applications"
+  ],
+  "isbn": "0306335085",
+  "format": "hardcover",
+  "collection": "Modern Theoretical Chemistry, Vol. 8",
+  "notes": "Part B focuses on applications of semiempirical methods in electronic structure calculations. Edited by Gerald A. Segal as part of the Modern Theoretical Chemistry series."
+},
+{
+  "title": "Water and Solute–Water Interactions",
+  "author": "J. Lee Kavanau",
+  "year": 1964,
+  "publisher": "Holden-Day, Inc.",
+  "category": "physical chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "water",
+    "solute-water interactions",
+    "physical chemistry",
+    "biophysics",
+    "hydrogen bonding",
+    "solution chemistry"
+  ],
+  "isbn": null,
+  "format": "hardcover",
+  "collection": null,
+  "notes": "Classic monograph on the structure and behavior of water and solute–water interactions, with implications for physical chemistry and biophysics. Ex-library copy from The New York Public Library (Mid-Manhattan Library, Science Department). Retains library markings, punch card, and original due-date slip marked September 13, 1977."
+},
+{
+  "title": "Molecular Aspects of Signal Transduction",
+  "author": "Matesh N. Varma and Aloke Chatterjee (editors)",
+  "year": 1995,
+  "publisher": "Plenum Press",
+  "category": "biophysical chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "signal transduction",
+    "molecular biology",
+    "biophysics",
+    "cell signaling",
+    "basic life sciences",
+    "conference proceedings",
+    "Hidden Markov Models",
+    "Monte Carlo Simulation"
+  ],
+  "isbn": "0306449951",
+  "format": "hardcover",
+  "collection": "Basic Life Sciences, Vol. 63",
+  "notes": "Edited volume in the Basic Life Sciences series focusing on molecular mechanisms of signal transduction. Purchased through the Beveridge collection. Original purchase sticker indicates price $83.95 and notes the book was once listed as \"on order.\" Published by Plenum Press (Springer)."
+},
+{
+  "title": "Monte Carlo and Molecular Dynamics Simulations in Polymer Science",
+  "author": "Kurt Binder (editor)",
+  "year": 1995,
+  "publisher": "Oxford University Press",
+  "category": "computational polymer science",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "molecular dynamics",
+    "monte carlo simulation",
+    "polymer science",
+    "computational physics",
+    "statistical mechanics",
+    "simulation methods"
+  ],
+  "isbn": "0195094387",
+  "format": "hardcover",
+  "collection": null,
+  "notes": "Edited volume covering Monte Carlo and molecular dynamics simulation methods applied to polymer science. Includes theoretical foundations, algorithmic approaches, and applications to polymer structure and dynamics. A foundational reference for computational soft-matter and polymer physics."
+},
+{
+  "title": "Molecular and Quantum Pharmacology",
+  "author": "Ernst Bergmann and Bernard Pullman (editors)",
+  "year": 1974,
+  "publisher": "D. Reidel Publishing Company",
+  "category": "quantum chemistry and biochemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "quantum pharmacology",
+    "molecular pharmacology",
+    "quantum chemistry",
+    "biochemistry",
+    "drug-receptor interactions",
+    "Jerusalem Symposia"
+  ],
+  "isbn": null,
+  "format": "hardcover",
+  "collection": "Jerusalem Symposia on Quantum Chemistry and Biochemistry, Vol. 7",
+  "notes": "Edited volume from the Jerusalem Symposia on Quantum Chemistry and Biochemistry series, focusing on molecular and quantum approaches to pharmacology. Contributions explore quantum chemical perspectives on drug–receptor interactions and biochemical mechanisms. Published by D. Reidel Publishing Company (Dordrecht, Holland; Boston)."
+},
+{
+  "title": "The Chemical Physics of Solvation, Part A: Theory of Solvation",
+  "author": "Revaz R. Dogonadze, Erika Kálmán, Alexei A. Kornyshev, and Jens Ulstrup (editors)",
+  "year": 1985,
+  "publisher": "Elsevier",
+  "category": "chemical physics",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "solvation theory",
+    "chemical physics",
+    "theoretical chemistry",
+    "electrochemistry",
+    "statistical mechanics",
+    "Studies in Physical and Theoretical Chemistry"
+  ],
+  "isbn": "0444425519",
+  "format": "hardcover",
+  "collection": "Studies in Physical and Theoretical Chemistry, Vol. 38",
+  "notes": "Part A of a major reference work on the chemical physics of solvation, focusing on theoretical foundations. Edited by Dogonadze, Kálmán, Kornyshev, and Ulstrup. Published by Elsevier in 1985. This copy includes important provenance: a letter from University of Florida physicist John R. Sabin requesting that David L. Beveridge review the book, along with a photocopied purchase recommendation form for this edition. Formerly part of the David L. Beveridge collection."
+},
+{
+  "title": "Conformation of Biological Molecules: New Results from NMR",
+  "author": "G. Brix, H. Förster, Ramakrishna V. Hosur (editors)",
+  "year": 1982,
+  "publisher": "Springer-Verlag",
+  "category": "biophysical chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "NMR spectroscopy",
+    "biomolecular conformation",
+    "structural biology",
+    "biophysics",
+    "biological molecules",
+    "spectroscopic methods"
+  ],
+  "isbn": "354010769X",
+  "format": "hardcover",
+  "collection": null,
+  "notes": "Edited volume on biomolecular structure determination using NMR spectroscopy, presenting new experimental results and methodological advances. Published by Springer-Verlag in 1982. This copy lists two ISBNs: 3-540-10769-X (Springer-Verlag, Europe) and 0-387-10769-X (Springer-Verlag, U.S. edition)."
+},
+{
+  "title": "Advances in Biomolecular Simulations",
+  "author": "Richard Lavery, Jean-Louis Rivail, and Jeremy C. Smith (editors)",
+  "year": 1991,
+  "publisher": "American Institute of Physics",
+  "category": "computational biophysics",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "biomolecular simulations",
+    "molecular dynamics",
+    "computational biophysics",
+    "AIP conference proceedings",
+    "international conference"
+  ],
+  "isbn": "0883189402",
+  "format": "hardcover",
+  "collection": "Beveridge",
+  "notes": "Proceedings of the International Conference on Advances in Biomolecular Simulations, held in Overnai (Obernai), France, 1991. Published as AIP Conference Proceedings No. 239. Edited by Richard Lavery, Jean-Louis Rivail, and Jeremy C. Smith. Richard Lavery is a long-time collaborator of David L. Beveridge; the curator has also met Lavery personally."
+},
+{
+  "title": "Electrical Properties of Biological Polymers, Water, and Membranes",
+  "author": "Shiro Takashima and Harvey M. Fishman (editors)",
+  "year": 1977,
+  "publisher": "New York Academy of Sciences",
+  "category": "biophysical chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "biological polymers",
+    "membranes",
+    "water",
+    "electrical properties",
+    "biophysics",
+    "Annals of the New York Academy of Sciences"
+  ],
+  "isbn": null,
+  "format": "hardcover",
+  "collection": "Beveridge",
+  "notes": "Volume 303 of the Annals of the New York Academy of Sciences (1977). Edited by Shiro Takashima and Harvey M. Fishman. Focuses on the electrical properties of biological polymers, water, and membranes, bridging biophysics, physical chemistry, and membrane science."
+},
+{
+  "title": "Synergetics: A Workshop",
+  "author": "Hermann Haken (editor)",
+  "year": 1977,
+  "publisher": "Springer-Verlag",
+  "category": "theoretical physics",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "synergetics",
+    "self-organization",
+    "nonlinear dynamics",
+    "complex systems",
+    "theoretical physics",
+    "interdisciplinary science"
+  ],
+  "isbn": "0387084835",
+  "format": "hardcover",
+  "collection": "Beveridge",
+  "notes": "Workshop volume edited by Hermann Haken introducing and developing the theory of synergetics and self-organization in complex systems. Published by Springer-Verlag in 1977. This copy lists two ISBNs: U.S. edition 0-387-08483-5 and European edition 3-540-08483-5."
+},
+{
+  "title": "Water and Aqueous Nonelectrolyte Solutions: The Need for Temperature- and Pressure-Dependence Studies",
+  "author": "Jan Remees Haak",
+  "year": 1986,
+  "publisher": "Drukkerij Van Denderen B.V., Groningen",
+  "category": "physical chemistry",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "water",
+    "aqueous solutions",
+    "nonelectrolytes",
+    "temperature dependence",
+    "pressure dependence",
+    "physical chemistry",
+    "molecular simulation",
+    "thesis"
+  ],
+  "isbn": null,
+  "format": "bound thesis",
+  "collection": "Beveridge",
+  "notes": "Doctoral thesis by Jan Remees Haak on the thermodynamic and physical chemistry of water and aqueous nonelectrolyte solutions, emphasizing the importance of temperature- and pressure-dependent studies. Printed in 1986 by Drukkerij Van Denderen B.V. (Groningen, Netherlands). This copy includes significant provenance: a handwritten note from the author stating that the work was carried out under the supervision of Prof. Dr. Herman J. C. Berendsen (later of GROMOS/AMBER thermodynamic coupling). Also included is a Dutch \"Stellingen\" card—the traditional list of propositions defended alongside a PhD thesis. Formerly part of the David L. Beveridge collection."
+},
+{
+  "title": "Student Solution Supplement: Chemistry—Reactions, Structure, and Properties (2nd Edition)",
+  "author": "Clyde R. Dillard and David E. Goldberg",
+  "year": 1984,
+  "publisher": "Macmillan Publishing Company",
+  "category": "chemistry education",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "general chemistry",
+    "student solutions",
+    "chemistry education",
+    "problem solving",
+    "textbook supplement"
+  ],
+  "isbn": "0023295708",
+  "format": "softcover",
+  "collection": "Beveridge",
+  "notes": "Student solutions supplement for the textbook \"Chemistry: Reactions, Structure, and Properties\" (2nd edition) by Clyde R. Dillard and David E. Goldberg. Provides worked solutions to selected problems for use by students studying general chemistry."
+},
+{
+  "title": "Origins of American Scientists",
+  "author": "Robert H. Knapp and H. B. Goodrich",
+  "year": 1952,
+  "publisher": "University of Chicago Press",
+  "category": "history of science",
+  "location": "Thayer Office Bookshelf, Shelf 2",
+  "tags": [
+    "history of science",
+    "american scientists",
+    "scientific education",
+    "sociology of science",
+    "academic institutions",
+    "Wesleyan University"
+  ],
+  "isbn": null,
+  "format": "hardcover",
+  "collection": "Sease",
+  "notes": "Sociological and historical study examining the backgrounds, training, and institutional origins of American scientists. This work was commissioned by the Wesleyan University Board of Trustees, and the preface was written at Wesleyan University. Published by the University of Chicago Press in 1952, prior to widespread ISBN assignment. This copy bears the name Sease, likely referring to John Sease, former faculty member in Chemistry at Wesleyan University. The volume may also have passed through the David L. Beveridge collection, but that provenance is not definitively established."
+},
+
+
+
 ]
+
 
 
 
