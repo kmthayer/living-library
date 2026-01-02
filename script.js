@@ -32,7 +32,7 @@ document.getElementById('searchBox').addEventListener('input', function() {
         (book.title && book.title.toLowerCase().includes(query)) ||
         (book.author && book.author.toLowerCase().includes(query)) ||
         (book.category && book.category.toLowerCase().includes(query)) ||
-        (book.tags && book.tags.toLowerCase().includes(query)) ||
+        (book.tags && book.tags.join(' ').toLowerCase().includes(query)) ||
         (book.year && String(book.year).includes(query))
     );
 
@@ -40,3 +40,4 @@ document.getElementById('searchBox').addEventListener('input', function() {
 });
 
 loadBooks();
+
