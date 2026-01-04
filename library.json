@@ -1349,8 +1349,50 @@
   "format": "hardcover",
   "collection": "Sease",
   "notes": "Sociological and historical study examining the backgrounds, training, and institutional origins of American scientists. This work was commissioned by the Wesleyan University Board of Trustees, and the preface was written at Wesleyan University. Published by the University of Chicago Press in 1952, prior to widespread ISBN assignment. This copy bears the name Sease, likely referring to John Sease, former faculty member in Chemistry at Wesleyan University. The volume may also have passed through the David L. Beveridge collection, but that provenance is not definitively established."
-}
+},
+{
+  "title": "UNIX For Dummies",
+  "author": "John R. Levine and Margaret Levine Young",
+  "year": 1996,
+  "publisher": "IDG Books Worldwide",
+  "category": "computer science",
+  "location": "MV Branch, Sunroom Book Shelf 2",
+  "tags": [
+    "unix",
+    "linux",
+    "command line",
+    "operating systems",
+    "computer science",
+    "reference",
+    "beginner"
+  ],
+  "isbn": "9781568849058",
+  "format": "softcover",
+  "collection": "DLB",
+  "notes": "Introductory guide to the UNIX operating system, covering basic commands, file systems, shells, and practical usage. Part of the For Dummies series, designed for beginners and self-learners."
+},
+{
+  "title": "Molecules and Medicine",
+  "author": "E. J. Corey, William L. Jorgensen, and John C. Moore",
+  "year": 1998,
+  "publisher": "John Wiley & Sons",
+  "category": "chemistry",
+  "location": "MV Branch, Sunroom Book Shelf 2",
+  "tags": [
+    "medicinal chemistry",
+    "drug design",
+    "chemical biology",
+    "molecular medicine",
+    "chemistry education"
+  ],
+  "isbn": "9780470227497",
+  "format": "softcover",
+  "collection": "DLB",
+  "notes": "Interdisciplinary text exploring the chemical principles underlying modern medicine, including drug discovery, molecular interactions, and the chemical basis of therapeutic action."
+},
+
 ]
+
 
 
 
