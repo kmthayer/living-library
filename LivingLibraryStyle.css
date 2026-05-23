@@ -225,10 +225,14 @@ footer {
 }
 /* Living Library Additions
 ------------------------------------------------------*/
+/* Living Library Additions
+------------------------------------------------------*/
 
 .banner {
     position: relative;
-    max-height: 320px;
+    padding: 0px;
+    margin: 0px;
+    max-height: 380px;
     overflow: hidden;
 }
 
@@ -239,7 +243,7 @@ footer {
 
 .banner-title {
     position: absolute;
-    bottom: 25px;
+    bottom: 35px;
     left: 50%;
     transform: translateX(-50%);
     background: rgba(44, 44, 52, 0.78);
@@ -252,9 +256,6 @@ footer {
     margin: 0;
     font-size: 2.5em;
     letter-spacing: 1px;
+    font-family: Georgia, serif;
 }
-
-
-
-
 
